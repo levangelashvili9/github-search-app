@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# GITHUB USER SEARCH APP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description:
 
-## Available Scripts
+Github user search app
 
-In the project directory, you can run:
+## Features:
 
-### `npm start`
+You can search every user on github, and see info about their profile. Also, it's possible to toggle dark/light mode.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Screenshot:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Design preview for the github search coding challenge](https://res.cloudinary.com/dz209s6jk/image/upload/v1630058595/Challenges/axhe4rw0jpykyhdphhwc.jpg)
 
-### `npm test`
+## How to use:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Type username
+2. Done!
 
-### `npm run build`
+## Technologies:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- React
+- Styled Components
+- Axios
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Personal development
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+That was the first time i used axios, to fetch data about users and learnt how to use ThemeProvider, which i used to toggle dark/light mode.
 
-### `npm run eject`
+### Links
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Live Site URL: [Github Search](https://levangelashvili9.github.io/github-search-app/)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Author
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Linkedin - [@LevanGelashvili](https://www.linkedin.com/in/levan-gelashvili-669327227/)
